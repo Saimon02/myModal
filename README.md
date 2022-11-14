@@ -33,7 +33,7 @@ var modal = myModal();
 ```
 ```
 
-# Disclamer
+# Discliamer
 This is the first version of this library, so I will make some updates to improve it 
 and to add more functionality.
 
