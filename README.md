@@ -26,14 +26,15 @@ After that, if you want to create a basic modal you have to do this:
 ```
 var modal = myModal();
 ```
-###### example Image 
+###### Example image
+![](https://github.com/Saimon02/myModal/blob/main/example.PNG?raw=true)
 
 ###### Adding settings to the Modal-Object
 
 ```
 myModal({
   modal_type: 'modal-dialog-centered',
-  title: 'MyModal',
+  title: 'myModal',
   title_size: 4,
   content_body: content_body, //content html (obj html) or string
   content_footer: content_footer //content html (obj html) or string
@@ -43,13 +44,13 @@ myModal({
 ```
 $(myModal({
     modal_type: 'modal-dialog-centered modal-lg',
-    title: 'Messaggio',
+    title: 'myModal',
     title_size: 4,
   }).modal).modal('show');
   ```
  
 # Disclaimer
 This is the first version of this library, so I will make some updates to improve it 
-and to add more functionality.
+and add more functionality.
 
 🖤 **good bye** 🖤 
